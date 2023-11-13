@@ -18,6 +18,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@digitalbazaar/data-integrity-context": "digitalbazaar/data-integrity-context#add-v2-context",
+    "@digitalbazaar/security-document-loader": "^2.0.0",
     "express": "^4.18.2",
     "helmet": "^7.1.0",
     "morgan": "^1.10.0"
