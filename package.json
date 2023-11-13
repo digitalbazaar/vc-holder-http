@@ -1,0 +1,29 @@
+{
+  "name": "vc-holder-http",
+  "version": "0.0.0-1",
+  "description": "Verifiable Credential (VC) Holder HTTP API to create derived proofs.",
+  "homepage": "https://github.com/digitalbazaar/vc-holder-http",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/vc-holder-http"
+  },
+  "license": "BSD-3-Clause",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "files": [
+    "lib/**/*.js"
+  ],
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "eslint-config-digitalbazaar": "^5.0.1",
+    "eslint-plugin-jsdoc": "^46.9.0",
+    "eslint-plugin-unicorn": "^49.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
