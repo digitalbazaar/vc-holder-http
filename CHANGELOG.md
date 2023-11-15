@@ -1,6 +1,6 @@
 # vc-holder-http Changelog
 
-## 1.0.0 - 2023-11-TBD
+## 1.0.0 - 2023-11-15
 
 ### Added
 - Initial version.
