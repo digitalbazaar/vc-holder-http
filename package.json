@@ -1,5 +1,5 @@
 {
-  "name": "vc-holder-http",
+  "name": "@digitalbazaar/vc-holder-http",
   "version": "0.0.1-0",
   "description": "Verifiable Credential (VC) Holder HTTP API to create derived proofs.",
   "homepage": "https://github.com/digitalbazaar/vc-holder-http",
