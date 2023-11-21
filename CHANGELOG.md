@@ -1,5 +1,10 @@
 # vc-holder-http Changelog
 
+## 1.0.4 - 2023-11-xx
+
+### Changed
+- Temporarily disable use of `gh-action-buildnum`.
+
 ## 1.0.3 - 2023-11-21
 
 ### Changed

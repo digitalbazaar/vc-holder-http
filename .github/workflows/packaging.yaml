@@ -22,10 +22,11 @@ jobs:
       uses: martinbeentjes/npm-get-version-action@v1.0.0
     - name: Generate next release candidate number
       id: rc
-      uses: digitalbazaar/gh-action-buildnum@v2
-      with:
-        gist_token: ${{ secrets.VERES_BUILDER_CI_TOKEN }}
-        version_key: ${{ steps.version.outputs.current-version }}
+      # uses: digitalbazaar/gh-action-buildnum@v2
+      # with:
+      #   gist_token: ${{ secrets.VERES_BUILDER_CI_TOKEN }}
+      #   version_key: ${{ steps.version.outputs.current-version }}
+      run: echo "version_build_number=9999" >> $GITHUB_OUTPUT
 
     - name: Compute Docker Image Tag
       id: compute-tag
