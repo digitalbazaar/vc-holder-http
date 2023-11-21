@@ -1,5 +1,11 @@
 # vc-holder-http Changelog
 
+## 1.0.5 - 2023-11-xx
+
+### Changed
+- Use `digitalbazaar/gh-action-buildnum@v2` in packaging workflow.
+- Use `digitalbazaar/npm-get-version-action@v1` in packaging workflow.
+
 ## 1.0.4 - 2023-11-21
 
 ### Changed
