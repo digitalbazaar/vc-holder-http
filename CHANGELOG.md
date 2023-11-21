@@ -1,4 +1,9 @@
-# vc-holder-http Changelo
+# vc-holder-http Changelog
+
+## 1.0.1 - 2023-11-xx
+
+### Change
+- Use `digitalbazaar/gh-action-buildnum@v1` in packaging workflow.
 
 ## 1.0.1 - 2023-11-15
 
