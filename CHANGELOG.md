@@ -1,5 +1,10 @@
 # vc-holder-http Changelog
 
+## NEXT - TBD
+
+### Fixed
+- Revert to `node:20-alpine` in Dockerfile.
+
 ## 1.0.5 - 2023-11-21
 
 ### Changed
