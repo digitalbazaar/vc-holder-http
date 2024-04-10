@@ -5,6 +5,10 @@
 ### Fixed
 - Revert to `node:20-alpine` in Dockerfile.
 
+### Added
+- `@digitalbazaar/credentials-v2-context` is now in the documentLoader.
+- `@digitalbazaar/multikey-context` is now in the documentLoader.
+
 ## 1.0.5 - 2023-11-21
 
 ### Changed
