@@ -5,6 +5,7 @@
 ### Added
 - `@digitalbazaar/credentials-v2-context` is now in the documentLoader.
 - `@digitalbazaar/multikey-context` is now in the documentLoader.
+- POST /`credentials/derive` added.
 
 ### Fixed
 - Revert to `node:20-alpine` in Dockerfile.
