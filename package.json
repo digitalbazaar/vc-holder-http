@@ -18,6 +18,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@digitalbazaar/bbs-2023-cryptosuite": "^1.2.0",
     "@digitalbazaar/credentials-v2-context": "github:digitalbazaar/credentials-v2-context",
     "@digitalbazaar/data-integrity": "^2.0.0",
     "@digitalbazaar/data-integrity-context": "^2.0.0",
