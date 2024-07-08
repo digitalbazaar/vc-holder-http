@@ -1,6 +1,6 @@
 # vc-holder-http Changelog
 
-## NEXT - TBD
+## 1.1.0 - 2024-07-08
 
 ### Added
 - `@digitalbazaar/credentials-v2-context` is now in the documentLoader.
