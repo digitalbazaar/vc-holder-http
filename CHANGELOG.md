@@ -1,5 +1,15 @@
 # vc-holder-http Changelog
 
+## 1.2.0 - 2024-08-xx
+
+### Changed
+- Update dependencies for VC 2.0 support.
+  - Use `@digitalbazaar/security-document-loader@3`.
+  - Use `@digitalbazaar/vc@7`.
+  - Remove older `@digitalbazaar/credentials-v2-context`.
+- Refactor documentLoader code.
+- Update minor and dev dependencies.
+
 ## 1.1.0 - 2024-07-08
 
 ### Added
