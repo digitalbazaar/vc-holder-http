@@ -1,6 +1,6 @@
 # vc-holder-http Changelog
 
-## 1.2.0 - 2024-08-xx
+## 1.2.0 - 2024-08-06
 
 ### Changed
 - Update dependencies for VC 2.0 support.
