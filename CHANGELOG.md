@@ -1,5 +1,16 @@
 # vc-holder-http Changelog
 
+## 2.0.0 - 2024-xx-xx
+
+### Changed
+- **BREAKING**: Update dependencies:
+  - `@digitalbazaar/bbs-2023-cryptosuite@2`
+    - Updated to use IETF BBS draft 6 which is interoperable with IETF BBS
+      draft 6 and no longer interoperable with any previous versions.
+  - `@digitalbazaar/data-integrity@2.3.0`
+  - `@digitalbazaar/ecdsa-sd-2023-cryptosuite@3.4.1`
+- Update dev dependencies.
+
 ## 1.2.0 - 2024-08-06
 
 ### Changed

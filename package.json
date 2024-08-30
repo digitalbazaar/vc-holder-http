@@ -18,10 +18,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@digitalbazaar/bbs-2023-cryptosuite": "^1.2.0",
-    "@digitalbazaar/data-integrity": "^2.2.0",
+    "@digitalbazaar/bbs-2023-cryptosuite": "^2.0.1",
+    "@digitalbazaar/data-integrity": "^2.3.0",
     "@digitalbazaar/data-integrity-context": "^2.0.1",
-    "@digitalbazaar/ecdsa-sd-2023-cryptosuite": "^3.2.1",
+    "@digitalbazaar/ecdsa-sd-2023-cryptosuite": "^3.4.1",
     "@digitalbazaar/multikey-context": "^2.0.1",
     "@digitalbazaar/security-document-loader": "^3.0.0",
     "@digitalbazaar/vc": "^7.0.0",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-digitalbazaar": "^5.2.0",
-    "eslint-plugin-jsdoc": "^48.11.0",
+    "eslint-plugin-jsdoc": "^50.2.2",
     "eslint-plugin-unicorn": "^55.0.0"
   },
   "engines": {
