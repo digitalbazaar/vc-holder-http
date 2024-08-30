@@ -1,6 +1,6 @@
 # vc-holder-http Changelog
 
-## 2.0.0 - 2024-xx-xx
+## 2.0.0 - 2024-08-30
 
 ### Changed
 - **BREAKING**: Update dependencies:
